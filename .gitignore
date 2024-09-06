@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+#dirs
+*/.devcontainer/
+*/.vscode/
+*/.idea/
+*/.vs/
+*/.cache/
+*/.clangd
+*/components/
+
 # Object files
 *.o
 *.ko
